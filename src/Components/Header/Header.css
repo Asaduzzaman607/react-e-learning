@@ -1,0 +1,17 @@
+.main{
+    margin-bottom:10px;
+    background-color:#343A40;
+    color: white;
+    height:200px;
+    margin-top:10px;
+}
+.main-header{
+    text-align: center;
+}
+.header-text{
+    item-align: center;
+}
+
+.header-para{
+    text-align: center;
+}
